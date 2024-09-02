@@ -1,0 +1,10 @@
+  is rejected.
+b is accepted.
+ab is accepted.
+aab is accepted.
+aaab is accepted.
+aaaab is accepted.
+aaaaab is accepted.
+aaaaaaaa is rejected.
+aaaaaaab is accepted.
+bbbbbbbbbb is rejected.

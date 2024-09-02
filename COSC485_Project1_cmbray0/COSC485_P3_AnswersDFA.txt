@@ -1,0 +1,13 @@
+  is rejected.
+a is accepted.
+b is accepted.
+ab is accepted.
+ba is accepted.
+aaa is accepted.
+aab is accepted.
+aba is accepted.
+baa is accepted.
+abb is accepted.
+bab is accepted.
+bba is accepted.
+bbb is accepted.
